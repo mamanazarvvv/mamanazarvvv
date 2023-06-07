@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### I am Uzbek Boy 🇺🇿
+### Hello World 👋
+I am learning front-end course ⚡
+My hobby is PUBG 🌱 
 <!--
 **mamanazarvvv/mamanazarvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
