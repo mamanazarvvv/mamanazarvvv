@@ -1,7 +1,9 @@
 ### I am Uzbek Boy 🇺🇿
 ### Hello World 👋
 I am learning front-end course ⚡
-My hobby is PUBG 🌱 
+type to me on the telegram:(https://t.me/ave_ghost)💬
+or
+type to me on the email:(mamanazarovmuzaffar07@gmail.com)📫
 <!--
 **mamanazarvvv/mamanazarvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
