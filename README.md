@@ -3,9 +3,10 @@
 
 I am learning front-end course ⚡    
 
-type to me on the telegram:(https://t.me/ave_ghost)💬    
- or 
-      type to me on the email:(mamanazarovmuzaffar07@gmail.com)📫
+type to me on the telegram:(https://t.me/ave_ghost)         
+ or
+ 
+ type to me on the email:(mamanazarovmuzaffar07@gmail.com)📫
 <!--
 **mamanazarvvv/mamanazarvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
